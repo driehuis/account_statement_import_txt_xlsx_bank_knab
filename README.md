@@ -10,4 +10,4 @@ The list does include unique identifiers, so duplicate items will be silently di
 
 # Production notes
 
-The Statement Sheet Definition has been created and tested in the Odoo 14 user interface to the `account_statement_import_txt_xlsx` module. It was then exported to an XML file using the xr-export-statement-sheet-mapping.py script.
+The Statement Sheet Definition has been created and tested in the Odoo 14 user interface to the `account_statement_import_txt_xlsx` module. It was then exported to an XML file using the [xr-export-statement-sheet-mapping.py](https://github.com/driehuis/xr-export-statement-sheet-mapping) script.
